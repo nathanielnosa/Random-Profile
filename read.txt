@@ -1,0 +1,4 @@
+This is a simple random api profile
+The user information is hardcoded
+while the picture was an external api
+using iteration and generator to loop through the data
